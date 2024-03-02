@@ -5,7 +5,8 @@
 #include <unordered_map>
 #include <string>
 
-class ConfigLoader {
+class ConfigLoader
+{
 public:
     ConfigLoader(const std::string& filename);
     
